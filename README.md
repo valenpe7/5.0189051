@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11579273.svg)](https://doi.org/10.5281/zenodo.11579273)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/5.0065167/main?urlpath=lab/tree/analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/5.0189051/main?urlpath=lab/tree/analysis.ipynb)
 
 # Ultrarelativistic electron beams accelerated by terawatt scalable kHz laser
 
