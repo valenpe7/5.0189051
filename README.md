@@ -1,17 +1,17 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5711100.svg)](https://doi.org/10.5281/zenodo.5711100)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/5.0065167/master?urlpath=lab/tree/on_the_electromagnetic-electron_rings.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11579273.svg)](https://doi.org/10.5281/zenodo.11579273)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/5.0065167/master?urlpath=lab/tree/analysis.ipynb)
 
 # Ultrarelativistic electron beams accelerated by terawatt scalable kHz laser
 
 This repository contains supplementary material for the work entitled "*Ultrarelativistic electron beams accelerated by terawatt scalable kHz laser*" that has been published in AIP **Physics of Plasmas** ([https://doi.org/10.1063/5.0189051](https://doi.org/10.1063/5.0189051)).
 
-The supplementary material consists of the raw data computed by the **[EPOCH](https://cfsa-pmw.warwick.ac.uk/EPOCH)** code (v4.?) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
+The supplementary material consists of the raw data computed by the **[EPOCH](https://epochpic.github.io/)** code (v4.18.0) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
 
 The analysis is performed using Python 3 programming language and relies on several Python packages: [numpy](https://github.com/numpy/numpy), [scipy](https://github.com/scipy/scipy), [matplotlib](https://github.com/matplotlib/matplotlib), and [sdf](https://github.com/keithbennett/SDF).
 
 ### How to obtain the data
 
-The raw data used in this work are openly available in a **Zenodo** repository. You may download the data as a .zip archive (? GB) on the following link: https://zenodo.org/record/?.
+The raw data used in this work are openly available in a **Zenodo** repository. You may download the data as a .zip archive (? GB) on the following link: [https://zenodo.org/records/11579273/files/data.zip?download=1](https://zenodo.org/records/11579273/files/data.zip?download=1).
 
 ### How to obtain the notebook
 
