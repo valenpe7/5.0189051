@@ -3,11 +3,11 @@
 
 # Ultrarelativistic electron beams accelerated by terawatt scalable kHz laser
 
-This repository contains supplementary material for the work entitled "*Ultrarelativistic electron beams accelerated by terawatt scalable kHz laser*" that has been published in AIP **Physics of Plasmas** ([https://doi.org/10.1063/5.0189051](https://doi.org/10.1063/5.0189051)).
+This repository contains supplementary material for the paper C. M. Lazzarini et al., "Ultrarelativistic electron beams accelerated by terawatt scalable kHz laser", *Physics of Plasmas* **31**, 030703 (2024); [https://doi.org/10.1063/5.0189051](https://doi.org/10.1063/5.0189051).
 
-The supplementary material consists of the raw data computed by the **[EPOCH](https://epochpic.github.io/)** code (v4.18.0) and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for developing the analytical model and generating the figures.
+The supplementary material consists of the raw data and the **[Jupyter](https://jupyter.org/)** notebook with the set of commands that have been used for generating figures.
 
-The analysis is performed using Python 3 programming language and relies on several Python packages: [numpy](https://github.com/numpy/numpy), [scipy](https://github.com/scipy/scipy), [matplotlib](https://github.com/matplotlib/matplotlib), and [sdf](https://github.com/keithbennett/SDF).
+The analysis is performed using Python programming language and relies on several Python packages (see the `requirements.txt` file).
 
 ### How to obtain the data
 
