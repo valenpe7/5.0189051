@@ -11,7 +11,7 @@ The analysis is performed using Python 3 programming language and relies on seve
 
 ### How to obtain the data
 
-The raw data used in this work are openly available in a **Zenodo** repository. You may download the data as a .zip archive (? GB) on the following link: [https://zenodo.org/records/11579273/files/data.zip?download=1](https://zenodo.org/records/11579273/files/data.zip?download=1).
+The raw data used in this work are openly available in a **Zenodo** repository. You may download the data as a .zip archive (4.6 MB) on the following link: [https://zenodo.org/records/11579273/files/data.zip?download=1](https://zenodo.org/records/11579273/files/data.zip?download=1).
 
 ### How to obtain the notebook
 
