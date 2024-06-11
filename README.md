@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11579273.svg)](https://doi.org/10.5281/zenodo.11579273)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/5.0065167/master?urlpath=lab/tree/analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/5.0065167/main?urlpath=lab/tree/analysis.ipynb)
 
 # Ultrarelativistic electron beams accelerated by terawatt scalable kHz laser
 
@@ -23,9 +23,9 @@ The notebook `analysis.ipynb` is stored in this GitHub repository. You may eithe
 ### How to launch the notebook
 
 If you have downloaded the notebook and the data and have all the requirements installed on your computer, you may launch the notebook locally. Alternatively, if you do not have installed all the requirements, you may launch the notebook on-line using
-* **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/5.0189051/blob/master/analysis.ipynb
+* **Jupyter NBViwever** (non-interactive): https://nbviewer.jupyter.org/github/valenpe7/5.0189051/blob/main/analysis.ipynb
 
-* **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/5.0189051/master?urlpath=lab/tree/analysis.ipynb
+* **Binder** (interactive): https://mybinder.org/v2/gh/valenpe7/5.0189051/main?urlpath=lab/tree/analysis.ipynb
 
 ### How to cite
 
