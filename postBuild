@@ -15,7 +15,7 @@ rm -rf $dir/SDF
 wget -O $dir/data.zip "https://zenodo.org/records/11579273/files/data.zip?download=1"
 
 # obtain 7zip
-wget -O $dir/7z.tar.xz https://www.7-zip.org/a/7z2104-linux-x64.tar.xz
+wget -O $dir/7z.tar.xz https://www.7-zip.org/a/7z2406-linux-x64.tar.xz
 mkdir $dir/7z
 tar -xvf $dir/7z.tar.xz -C $dir/7z 
 
